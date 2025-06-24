@@ -6,6 +6,6 @@ Problems are organized by topic (arrays, strings, stack, etc.), solved from plat
 
 Goal: Improve problem-solving skills .
 
-💻 Language: JavaScript  
+💻 Language: Typescript/JavaScript  
 🗂️ Structure: Topic-wise folders  
 🔁 Updated regularly
