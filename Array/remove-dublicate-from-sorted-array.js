@@ -1,5 +1,5 @@
 // 🔗 Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-// 📂 Topic: Arrays, Two Pointers
+// 📂 Topic: Arrays
 // 🧠 Level: Easy
 // 🗓️ Solved on: 2025-06-28
 // 💻 Language: TypeScript / JavaScript
